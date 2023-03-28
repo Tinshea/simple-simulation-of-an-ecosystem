@@ -10,4 +10,4 @@ Les` herbes` qui ont été consommé `se regénérent à un ticks aléatoire`.
 
 
 ## Evolution du nombre des proies et des prédateurs en fonction du temps  
-![](/Data.png)
+![](/DATA.png)
